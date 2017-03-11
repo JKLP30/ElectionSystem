@@ -1,0 +1,43 @@
+[data-jgrid] table a {
+    font-size: 12px!important;
+}
+
+[data-jgrid] th:last-child, [data-jgrid] td:last-child {
+	font-size: 12px;
+}
+
+.add-entry {
+	margin-bottom: 10px;
+}
+
+.filter {
+	margin: 10px 10px;
+}
+
+.navbar-default {
+    background-color: #1e00b4;
+     border-color: #1e00b4; 
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+    font-size: 15px;
+}
+
+.navbar {
+	min-height: 110px;
+	border-radius: 0px;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	margin-top: 40px;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+	color: #ff7016;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+	background-color: #1e00b4;
+	color: #fff;
+}
